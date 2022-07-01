@@ -1,0 +1,26 @@
+.app {
+  text-align: center;
+  align-items: center;
+}
+
+.app-header {
+  width: 100%;
+  color: #191919;
+  background-color: #dcdee4;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: monospace(5px + 2vmin);
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+body {
+  background-image: url("https://www.bing.com/th?id=OIP.ySfnosCxrTptwiU9EoJL4wHaHu&w=244&h=255&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2");
+}
